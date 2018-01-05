@@ -211,15 +211,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/shyam-ramakrishnan"
 
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "https://www.instagram.com/shyam.19"
+  #[[params.social]]
+  #  icon = "instagram"
+  #  icon_pack = "fa"
+  #  link = "https://www.instagram.com/shyam.19"
 
-  [[params.social]]
-    icon = "youtube"
-    icon_pack = "fa"
-    link = "https://www.youtube.com/channel/UCbnIxr3wUTwLJKndJ0uRkDA"
+  #[[params.social]]
+  #  icon = "youtube"
+  #  icon_pack = "fa"
+  #  link = "https://www.youtube.com/channel/UCbnIxr3wUTwLJKndJ0uRkDA"
 
 
 # Navigation Links
