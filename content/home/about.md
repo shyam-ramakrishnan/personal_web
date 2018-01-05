@@ -34,6 +34,6 @@ I am a graduate student at North Carolina State University, working towards a Ma
 
 Besides academics, I am a big fan of progressive rock music. Playing guitar and researching about guitar gear is one of my passions. I also love soccer and have played competitive soccer in undergraduate local leagues.  
 
-I am currently interested in full time Software Engineering roles starting May 2018. Please feel free to contact me, in case you find my profile to match the requirements of any openings.
+I am currently interested in full time Software Engineering roles starting May 2018. In case you find my profile to match the requirements of any openings, please do contact me.
 
 [Curriculum Vitae](/pdf/cv.pdf)
