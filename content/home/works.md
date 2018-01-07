@@ -25,7 +25,7 @@ weight = 50
 **Part Time Internship:**    
 
 * Was selected as a Student Developer Intern in 2017 Programme Management Lite Internship with the Office of Information Technology at NCSU  
-* Worked with NC State’s Identity and Access Management team and was involved in the implementation of Oracle Identity Manager system  
+* Worked with the Identity and Access Management team and implemented Oracle Identity Manager system  
 
 ---
 

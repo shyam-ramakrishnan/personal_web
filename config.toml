@@ -45,9 +45,9 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "NC State University", url = "https://www.csc.ncsu.edu/" } ]
   avatar = "head.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sramakr9@ncsu.edu"
-  address = "2502 Avent Ferry Rd, Raleigh NC - 27606"
+  address = ""
   office_hours = ""
-  phone = "(650) 495-0343"
+  phone = ""
   skype = ""
   telegram = ""
 

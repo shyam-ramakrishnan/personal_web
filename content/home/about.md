@@ -30,10 +30,8 @@ weight = 5
 
 # About Me
 
-I am a graduate student at North Carolina State University, working towards a Master's degree in Computer Science. My interests include java programming, cloud computing, machine learning, microservices, software configuration management and continuous integration.  
+I am a Master's student at North Carolina State University, Raleigh, majoring in Computer Science. My interests include java programming, cloud computing, machine learning, microservices, software configuration management and continuous integration.  
 
-Besides academics, I am a big fan of progressive rock music. Playing guitar and exploring different guitar gear is one of my passions. I also love soccer and have played competitive soccer in undergraduate local leagues.  
-
-I am currently interested in full time Software Engineering roles starting May 2018. In case you find my profile to match the requirements of any openings, please do contact me.
+Besides academics, I am a big fan of progressive rock music. Playing guitar and exploring different guitar gears is one of my passions. I also love soccer and have played competitive soccer in local leagues.  
 
 [Curriculum Vitae](/pdf/cv.pdf)
