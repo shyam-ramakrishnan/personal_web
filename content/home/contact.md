@@ -14,8 +14,7 @@ weight = 60
 autolink = true
 
 +++
-You can get in touch with me by sending me an email or connecting via LinkedIn.  
-If you have an interesting project or opportunity, I'd like to hear more.  
+If you have an interesting project or an opportunity, please connect with me on LinkedIn or send me an email.  
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
